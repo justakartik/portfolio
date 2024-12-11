@@ -64,7 +64,7 @@ Follow these steps to set up and run the project locally:
    Add your projects to the portfolio by updating the relevant components in the `app/` directory.
 
 3. **Modify Styling**:  
-   Customize the design by editing the CSS files in the `styles/` folder or directly using Tailwind CSS classes.
+   Customize the design by editing files in the `components/` folder.
 
 ## Resources and Documentation
 
