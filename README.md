@@ -53,8 +53,7 @@ Follow these steps to set up and run the project locally:
 ## Folder Structure
 
 - **`app/`**: Contains pages and components for the application.
-- **`styles/`**: Houses global and component-specific CSS files.
-- **`public/`**: Stores assets like images and icons.
+- **`components/`**: Houses global and component-specific files.
 
 ## How to Customize
 
